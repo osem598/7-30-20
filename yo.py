@@ -1,0 +1,1 @@
+print("I'm not depressed bro, just tired")
